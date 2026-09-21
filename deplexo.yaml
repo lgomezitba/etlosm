@@ -1,4 +1,4 @@
 framework: java
 build: ./mvnw clean package
-start: java -jar target/osm-1.0.jar
+start: java -jar app.jar
 port: 9999
